@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Ocean.",
+  title: "Oceanyt.",
   description: "best modern crm dashboard for engineering teams",
 };
 
